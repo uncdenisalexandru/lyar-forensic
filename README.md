@@ -51,7 +51,8 @@ Cyan: Foundational markers (Pronouns/Fillers)
 Yellow: Low-to-mid risk markers (Hedges)
 Red: High-risk manipulative markers (Qualifiers/Time Leaps)
 
-HTML Dashboard:  The exported HTML report provides a high-level summary for non-technical investigators, including a risk score from 0-100 and an expert conclusion.
+HTML Dashboard: The exported HTML report provides a high-level summary for non-technical investigators, including a risk score from 0-100 and a conclusion
+
 --------------------------------------------------------------------------------
 DISCLAIMER
 
