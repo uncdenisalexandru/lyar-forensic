@@ -1,0 +1,3 @@
+On that specific day, the office environment was quite busy and chaotic. It is possible that the sensitive files were left accessible when the team went to the meeting. 
+Those documents were on the server, but probably someone took advantage of that moment of inattention. I believe it is possible for a technical glitch to have occurred simultaneously. 
+Honestly, I do not recall every single detail, but it seems that the logs were already cleared when the area was checked. So, um, fast forward to the end of the shift, and that is basically when it was seen that the data was missing
