@@ -25,13 +25,6 @@ The tool is based on established forensic linguistics protocols, such as Reality
 5. Fillers: Indicates increased Cognitive Load as the brain struggles to construct a fabricated narrative.
 
 -------------------------------------------------------------------------------
-Installation
-
-Clone the repository: git clone https://github.com/yourusername/lyar-forensic-tool.git >> cd lyar-forensic-tool
-
-Install dependencies: pip install matplotlib
-
--------------------------------------------------------------------------------
 Usage
 
 Run the main engine: python lyar.py
