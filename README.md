@@ -1,9 +1,3 @@
-Iată o variantă actualizată și profesională pentru `README.md`. Am rescris complet secțiunile de „Usage” și „Features” pentru a reflecta faptul că aplicația are acum o **Interfață Grafică (GUI)**, **Bază de date**, **Sentiment Analysis**, **Audio**, și funcționează și în **Limba Română**.
-
-Poți da copy-paste direct pe GitHub:
-
----
-
 # LYAR: Forensic Linguistic Intelligence Suite
 
 **LYAR (Linguistic Yield Analysis & Risk)** is a professional, GUI-based Python application designed for Forensic Statement Analysis. By utilizing advanced NLP techniques, RegEx-driven pattern matching, and sentiment analysis, LYAR identifies linguistic markers associated with deception, cognitive load, emotional state, and information withholding.
