@@ -4,29 +4,29 @@ Poți da copy-paste direct pe GitHub:
 
 ---
 
-# 🕵️‍♂️ LYAR: Forensic Linguistic Intelligence Suite
+# LYAR: Forensic Linguistic Intelligence Suite
 
 **LYAR (Linguistic Yield Analysis & Risk)** is a professional, GUI-based Python application designed for Forensic Statement Analysis. By utilizing advanced NLP techniques, RegEx-driven pattern matching, and sentiment analysis, LYAR identifies linguistic markers associated with deception, cognitive load, emotional state, and information withholding.
 
 Formerly a terminal-based tool, LYAR is now a complete desktop application built for investigators, HR professionals, journalists, and researchers.
 
-## ✨ Key Features (Version 6.0)
+## Key Features (Version 6.0)
 
-* 🖥️ **Modern Graphical Interface:** Intuitive, tab-based desktop app (built with Tkinter) requiring no coding knowledge to operate.
-* 🌍 **Bilingual Support:** Native analysis engines for both **English** and **Romanian** statements.
-* 🎤 **Audio Transcription:** Direct support for `.wav` files. The app automatically transcribes speech to text and analyzes it instantly.
-* 🧠 **Sentiment & Tone Analysis:** Evaluates the psychological tone of the text (Positive, Negative, Neutral) to detect defensiveness or artificial friendliness.
-* 🗄️ **Case Database & History:** Built-in SQLite database that automatically saves all analyses with unique `CASE ID`s. Search, retrieve, or delete past cases easily.
-* 📄 **Professional Reporting:** * Export "Police-Style" **PDF reports** ready for physical case files.
+* **Modern Graphical Interface:** Intuitive, tab-based desktop app (built with Tkinter) requiring no coding knowledge to operate.
+* **Bilingual Support:** Native analysis engines for both **English** and **Romanian** statements.
+* **Audio Transcription:** Direct support for `.wav` files. The app automatically transcribes speech to text and analyzes it instantly.
+* **Sentiment & Tone Analysis:** Evaluates the psychological tone of the text (Positive, Negative, Neutral) to detect defensiveness or artificial friendliness.
+* **Case Database & History:** Built-in SQLite database that automatically saves all analyses with unique `CASE ID`s. Search, retrieve, or delete past cases easily.
+* **Professional Reporting:** * Export "Police-Style" **PDF reports** ready for physical case files.
 * Export **HTML Dashboards** with color-coded "Red Flag" highlighting.
 
 
-* ⚖️ **A/B Comparative Analysis:** Side-by-side credibility assessment of two different versions of the same event.
-* 📂 **Batch Processing:** Point the app to a folder of `.txt` files to process dozens of statements at once, generating a Matplotlib risk distribution chart.
+* **A/B Comparative Analysis:** Side-by-side credibility assessment of two different versions of the same event.
+* **Batch Processing:** Point the app to a folder of `.txt` files to process dozens of statements at once, generating a Matplotlib risk distribution chart.
 
 ---
 
-## 🔬 The Science Behind LYAR
+## The Science Behind LYAR
 
 The tool is based on established forensic linguistics protocols, such as Reality Monitoring (RM) and Scientific Content Analysis (SCAN). It tracks five critical indicators:
 
@@ -38,7 +38,7 @@ The tool is based on established forensic linguistics protocols, such as Reality
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 LYAR is completely cross-platform and works on Windows, macOS, and Linux.
 
@@ -69,7 +69,7 @@ python lyar.py
 
 ---
 
-## 💡 Usage Guide
+## Usage Guide
 
 Upon launching the application, you will find four main tabs:
 
@@ -80,7 +80,7 @@ Upon launching the application, you will find four main tabs:
 
 ---
 
-## ⚠️ DISCLAIMER
+## DISCLAIMER
 
 This tool is intended for **research, educational, and investigative support purposes only**. LYAR is a statistical stylometry tool, not a lie detector. Forensic linguistic analysis should always be corroborated with physical evidence and interpreted by a qualified professional in a legal context.
 
@@ -88,4 +88,4 @@ This tool is intended for **research, educational, and investigative support pur
 
 **Author:** Unc Denis-Alexandru
 
-**Version:** 6.0 (GUI Release)
+**Version:** 2.0 (GUI Release)
